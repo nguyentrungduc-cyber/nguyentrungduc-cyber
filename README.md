@@ -60,7 +60,7 @@ current_courses:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyentrungduc-cyber&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyentrungduc-cyber&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentrungduc-cyber&layout=compact&theme=radical&hide_border=true)
 

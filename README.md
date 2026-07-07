@@ -64,7 +64,7 @@ current_courses:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentrungduc-cyber&layout=compact&theme=radical&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyentrungduc-cyber&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=nguyentrungduc-cyber&theme=radical&hide_border=true)
 
 </div>
 

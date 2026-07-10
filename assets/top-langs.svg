@@ -1,4 +1,4 @@
-<svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="420" height="244" viewBox="0 0 420 244" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bg { fill: #0d1117; stroke: #00FF9C; stroke-width: 1.5; }
     .title { font: 600 15px 'Fira Code', monospace; fill: #00FF9C; }
@@ -6,41 +6,31 @@
     .pct { font: 600 12px 'Fira Code', monospace; fill: #ffffff; }
     .track { fill: #21262d; }
   </style>
-  <rect class="bg" x="1" y="1" width="418" height="218" rx="10"/>
+  <rect class="bg" x="1" y="1" width="418" height="242" rx="10"/>
   <circle cx="20" cy="20" r="5" fill="#ff5f56"/>
   <circle cx="36" cy="20" r="5" fill="#ffbd2e"/>
   <circle cx="52" cy="20" r="5" fill="#27c93f"/>
   <text x="20" y="48" class="title">$ cat top_languages.json</text>
 
-  <!-- C# 49.1% -->
   <text x="20" y="74" class="label">C#</text>
   <text x="390" y="74" class="pct" text-anchor="end">49.1%</text>
   <rect class="track" x="20" y="80" width="370" height="8" rx="4"/>
-  <rect x="20" y="80" width="181.7" height="8" rx="4" fill="#178600"/>
-
-  <!-- C++ 21.6% -->
+  <rect x="20" y="80" width="181.8" height="8" rx="4" fill="#178600"/>
   <text x="20" y="104" class="label">C++</text>
   <text x="390" y="104" class="pct" text-anchor="end">21.6%</text>
   <rect class="track" x="20" y="110" width="370" height="8" rx="4"/>
   <rect x="20" y="110" width="79.9" height="8" rx="4" fill="#f34b7d"/>
-
-  <!-- FreeMarker 18.9% -->
   <text x="20" y="134" class="label">FreeMarker</text>
   <text x="390" y="134" class="pct" text-anchor="end">18.9%</text>
   <rect class="track" x="20" y="140" width="370" height="8" rx="4"/>
   <rect x="20" y="140" width="69.9" height="8" rx="4" fill="#0050b2"/>
-
-  <!-- CSS 4.7% -->
   <text x="20" y="164" class="label">CSS</text>
   <text x="390" y="164" class="pct" text-anchor="end">4.7%</text>
   <rect class="track" x="20" y="170" width="370" height="8" rx="4"/>
-  <rect x="20" y="170" width="17.4" height="8" rx="4" fill="#563d7c"/>
-
-  <!-- JavaScript 2.8% -->
+  <rect x="20" y="170" width="17.3" height="8" rx="4" fill="#563d7c"/>
   <text x="20" y="194" class="label">JavaScript</text>
   <text x="390" y="194" class="pct" text-anchor="end">2.8%</text>
   <rect class="track" x="20" y="200" width="370" height="8" rx="4"/>
-  <rect x="20" y="200" width="10.4" height="8" rx="4" fill="#f1e05a"/>
-
-  <text x="20" y="215" class="label" fill="#8b949e" font-size="10">Tính theo dung lượng code thật trên GitHub (bỏ qua repo fork)</text>
+  <rect x="20" y="200" width="10.5" height="8" rx="4" fill="#f1e05a"/>
+  <text x="20" y="224" class="label" fill="#8b949e" font-size="10">Tính theo dung lượng code thật trên GitHub (bỏ qua repo fork)</text>
 </svg>

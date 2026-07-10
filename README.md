@@ -75,7 +75,7 @@ current_courses:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-nguyentrungduc--cyber-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyentrungduc-cyber)
-[![Facebook](https://shields.io)](https://www.facebook.com/nguyen.trung.uc.634722)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.trung.uc.634722)
 </div>
 
 <div align="center">

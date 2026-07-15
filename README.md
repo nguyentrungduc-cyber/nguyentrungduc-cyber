@@ -34,7 +34,7 @@ current_courses:
 | Project | Mô tả | Stack |
 | :--- | :--- | :--- |
 | 🔐 [**keycloak-iam-project**](https://github.com/nguyentrungduc-cyber/keycloak-iam-project) | Hệ thống IAM (SSO, RBAC, MFA, SAML 2.0, Social Login) dùng Keycloak, HA + Load Balancer | `Keycloak` `Docker` `Nginx` `Node.js` |
-| 💬 **SecureChat** | Ứng dụng chat kiểu Telegram — WinForms Client + ASP.NET Core Server, mã hóa AES | `C#` `WinForms` `ASP.NET Core` `MySQL` |
+| 💬 [**SecureChat**](https://github.com/nguyentrungduc-cyber/NT106-DoAn-Nhom06) | Ứng dụng chat kiểu Telegram — WinForms Client + ASP.NET Core Server, mã hóa AES | `C#` `WinForms` `ASP.NET Core` `MySQL` |
 | 🌐 **web-het-tien-rui** | Dự án web nhỏ, thực hành front-end | `CSS` |
 | 🧠 **Object-Oriented-Programming_UIT** | Bài tập thực hành OOP | `C++` |
 | 🗂️ **Data-Structures-and-Algorithms-UIT** | Bài thực hành Cấu trúc dữ liệu & Giải thuật | `C++` |

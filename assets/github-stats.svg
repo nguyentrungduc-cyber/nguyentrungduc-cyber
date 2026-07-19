@@ -22,7 +22,7 @@
 
   <text x="20" y="122" class="prompt">&#10148;</text>
   <text x="35" y="122" class="label">Following</text>
-  <text x="380" y="122" class="value" text-anchor="end">10</text>
+  <text x="380" y="122" class="value" text-anchor="end">11</text>
 
   <text x="20" y="144" class="prompt">&#10148;</text>
   <text x="35" y="144" class="label">Total stars</text>

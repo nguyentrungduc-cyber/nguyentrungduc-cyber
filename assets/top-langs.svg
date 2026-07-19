@@ -13,21 +13,21 @@
   <text x="20" y="48" class="title">$ cat top_languages.json</text>
 
   <text x="20" y="74" class="label">C#</text>
-  <text x="390" y="74" class="pct" text-anchor="end">50.6%</text>
+  <text x="390" y="74" class="pct" text-anchor="end">50.7%</text>
   <rect class="track" x="20" y="80" width="370" height="8" rx="4"/>
-  <rect x="20" y="80" width="187.1" height="8" rx="4" fill="#178600"/>
+  <rect x="20" y="80" width="187.4" height="8" rx="4" fill="#178600"/>
   <text x="20" y="104" class="label">C++</text>
-  <text x="390" y="104" class="pct" text-anchor="end">20.4%</text>
+  <text x="390" y="104" class="pct" text-anchor="end">20.3%</text>
   <rect class="track" x="20" y="110" width="370" height="8" rx="4"/>
-  <rect x="20" y="110" width="75.3" height="8" rx="4" fill="#f34b7d"/>
+  <rect x="20" y="110" width="75.2" height="8" rx="4" fill="#f34b7d"/>
   <text x="20" y="134" class="label">FreeMarker</text>
   <text x="390" y="134" class="pct" text-anchor="end">17.8%</text>
   <rect class="track" x="20" y="140" width="370" height="8" rx="4"/>
-  <rect x="20" y="140" width="65.9" height="8" rx="4" fill="#0050b2"/>
+  <rect x="20" y="140" width="65.8" height="8" rx="4" fill="#0050b2"/>
   <text x="20" y="164" class="label">CSS</text>
   <text x="390" y="164" class="pct" text-anchor="end">4.4%</text>
   <rect class="track" x="20" y="170" width="370" height="8" rx="4"/>
-  <rect x="20" y="170" width="16.3" height="8" rx="4" fill="#563d7c"/>
+  <rect x="20" y="170" width="16.2" height="8" rx="4" fill="#563d7c"/>
   <text x="20" y="194" class="label">JavaScript</text>
   <text x="390" y="194" class="pct" text-anchor="end">2.7%</text>
   <rect class="track" x="20" y="200" width="370" height="8" rx="4"/>

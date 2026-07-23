@@ -14,7 +14,7 @@
 
   <text x="20" y="78" class="prompt">&#10148;</text>
   <text x="35" y="78" class="label">Public repos</text>
-  <text x="380" y="78" class="value" text-anchor="end">10</text>
+  <text x="380" y="78" class="value" text-anchor="end">11</text>
 
   <text x="20" y="100" class="prompt">&#10148;</text>
   <text x="35" y="100" class="label">Followers</text>

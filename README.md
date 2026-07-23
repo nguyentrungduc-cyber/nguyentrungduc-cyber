@@ -37,8 +37,8 @@ current_courses:
 | 💬 [**SecureChat**](https://github.com/nguyentrungduc-cyber/NT106-DoAn-Nhom06) | Ứng dụng chat kiểu Telegram — WinForms Client + ASP.NET Core Server, mã hóa AES | `C#` `WinForms` `ASP.NET Core` `MySQL` |
 | 🎮️ [**Game đoán số**](https://github.com/nguyentrungduc-cyber/Multiplayer_Guess_Number) | Lập trình mạng căn bản - NT106.Q22.ANTT - Lab 06 tổng hợp | `C#` `WinForms` |
 | 🌐 **web-het-tien-rui** | Dự án web nhỏ, thực hành front-end | `CSS` |
-| 🧠 **Object-Oriented-Programming_UIT** | Bài tập thực hành OOP | `C++` |
-| 🗂️ **Data-Structures-and-Algorithms-UIT** | Bài thực hành Cấu trúc dữ liệu & Giải thuật | `C++` |
+| 🧠 [**Object-Oriented-Programming_UIT**](https://github.com/nguyentrungduc-cyber/Object-Oriented-Programming_UIT) | Bài tập thực hành OOP | `C++` |
+| 🗂️ [**Data-Structures-and-Algorithms-UIT**](https://github.com/nguyentrungduc-cyber/Wecode_DSA) | Bài thực hành Cấu trúc dữ liệu & Giải thuật | `C++` |
 
 ---
 

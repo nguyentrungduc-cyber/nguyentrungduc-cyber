@@ -65,7 +65,7 @@ current_courses:
 
 ![Top Langs](assets/top-langs.svg)
 
-![Streak](https://streak-stats.demolab.com/?user=nguyentrungduc-cyber&theme=radical&hide_border=true)
+![Streak](https://github-readme-streak-stats-gamma-swart-31.vercel.app/?user=nguyentrungduc-cyber&theme=radical&hide_border=true)
 
 </div>
 

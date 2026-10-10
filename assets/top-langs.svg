@@ -31,6 +31,6 @@
   <text x="20" y="194" class="label">Python</text>
   <text x="390" y="194" class="pct" text-anchor="end">5.3%</text>
   <rect class="track" x="20" y="200" width="370" height="8" rx="4"/>
-  <rect x="20" y="200" width="19.7" height="8" rx="4" fill="#3572A5"/>
+  <rect x="20" y="200" width="19.6" height="8" rx="4" fill="#3572A5"/>
   <text x="20" y="224" class="label" fill="#8b949e" font-size="10">Tính theo dung lượng code thật trên GitHub (bỏ qua repo fork)</text>
 </svg>

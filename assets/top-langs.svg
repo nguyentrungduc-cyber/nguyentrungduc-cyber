@@ -13,24 +13,24 @@
   <text x="20" y="48" class="title">$ cat top_languages.json</text>
 
   <text x="20" y="74" class="label">C++</text>
-  <text x="390" y="74" class="pct" text-anchor="end">31.3%</text>
+  <text x="390" y="74" class="pct" text-anchor="end">31.6%</text>
   <rect class="track" x="20" y="80" width="370" height="8" rx="4"/>
-  <rect x="20" y="80" width="116.0" height="8" rx="4" fill="#f34b7d"/>
+  <rect x="20" y="80" width="117.0" height="8" rx="4" fill="#f34b7d"/>
   <text x="20" y="104" class="label">C#</text>
-  <text x="390" y="104" class="pct" text-anchor="end">29.8%</text>
+  <text x="390" y="104" class="pct" text-anchor="end">30.1%</text>
   <rect class="track" x="20" y="110" width="370" height="8" rx="4"/>
-  <rect x="20" y="110" width="110.2" height="8" rx="4" fill="#178600"/>
+  <rect x="20" y="110" width="111.2" height="8" rx="4" fill="#178600"/>
   <text x="20" y="134" class="label">JavaScript</text>
-  <text x="390" y="134" class="pct" text-anchor="end">10.2%</text>
+  <text x="390" y="134" class="pct" text-anchor="end">10.3%</text>
   <rect class="track" x="20" y="140" width="370" height="8" rx="4"/>
-  <rect x="20" y="140" width="37.7" height="8" rx="4" fill="#f1e05a"/>
+  <rect x="20" y="140" width="38.0" height="8" rx="4" fill="#f1e05a"/>
   <text x="20" y="164" class="label">FreeMarker</text>
-  <text x="390" y="164" class="pct" text-anchor="end">9.6%</text>
+  <text x="390" y="164" class="pct" text-anchor="end">9.7%</text>
   <rect class="track" x="20" y="170" width="370" height="8" rx="4"/>
-  <rect x="20" y="170" width="35.6" height="8" rx="4" fill="#0050b2"/>
+  <rect x="20" y="170" width="35.9" height="8" rx="4" fill="#0050b2"/>
   <text x="20" y="194" class="label">Kotlin</text>
   <text x="390" y="194" class="pct" text-anchor="end">5.6%</text>
   <rect class="track" x="20" y="200" width="370" height="8" rx="4"/>
-  <rect x="20" y="200" width="20.6" height="8" rx="4" fill="#8b949e"/>
+  <rect x="20" y="200" width="20.8" height="8" rx="4" fill="#8b949e"/>
   <text x="20" y="224" class="label" fill="#8b949e" font-size="10">Tính theo dung lượng code thật trên GitHub (bỏ qua repo fork)</text>
 </svg>

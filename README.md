@@ -35,10 +35,9 @@ current_courses:
 | :--- | :--- | :--- |
 | 🔐 [**keycloak-iam-project**](https://github.com/nguyentrungduc-cyber/keycloak-iam-project) | Hệ thống IAM (SSO, RBAC, MFA, SAML 2.0, Social Login) dùng Keycloak, HA + Load Balancer | `Keycloak` `Docker` `Nginx` `Node.js` |
 | 💬 [**SecureChat**](https://github.com/nguyentrungduc-cyber/NT106-DoAn-Nhom06) | Ứng dụng chat kiểu Telegram — WinForms Client + ASP.NET Core Server, mã hóa AES | `C#` `WinForms` `ASP.NET Core` `MySQL` |
-| 🎮️ [**Game đoán số**](https://github.com/nguyentrungduc-cyber/Multiplayer_Guess_Number) | Lập trình mạng căn bản - NT106.Q22.ANTT - Lab 06 tổng hợp | `C#` `WinForms` |
-| 🌐 **web-het-tien-rui** | Dự án web nhỏ, thực hành front-end | `CSS` |
-| 🧠 [**Object-Oriented-Programming_UIT**](https://github.com/nguyentrungduc-cyber/Object-Oriented-Programming_UIT) | Bài tập thực hành OOP | `C++` |
-| 🗂️ [**Data-Structures-and-Algorithms-UIT**](https://github.com/nguyentrungduc-cyber/Wecode_DSA) | Bài thực hành Cấu trúc dữ liệu & Giải thuật | `C++` |
+| 📡 [**manet-greenhouse-cloud-NT131**](https://github.com/duckluyencode/manet-greenhouse-cloud-NT131) | Định tuyến MANET (AODV cải tiến delayed RREQ) kết hợp Cloud cho robot nhà kính 1 ha, mô phỏng và đánh giá bằng NS-3 | `NS-3` `C++` `Python` `FastAPI` `Docker` |
+| ⚡ [**NT533-OpenFaaS-ColdStart-HPA-KEDA**](https://github.com/nguyentrungduc-cyber/NT533-OpenFaaS-ColdStart-HPA-KEDA) | Nghiên cứu cold-start và so sánh autoscaling HPA vs KEDA trên nền tảng OpenFaaS tự dựng trên cụm k3s | `OpenFaaS` `k3s` `KEDA` `Prometheus` `Python` |
+| 📚 [**VoCatClone**](https://github.com/nguyentrungduc-cyber/VoCatClone) | Ứng dụng Android học từ vựng tiếng Anh: Flashcard, trắc nghiệm, chính tả, lưu cục bộ | `Kotlin` `Jetpack Compose` `Room` |
 
 ---
 

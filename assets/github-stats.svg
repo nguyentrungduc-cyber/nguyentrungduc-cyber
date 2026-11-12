@@ -26,7 +26,7 @@
 
   <text x="20" y="144" class="prompt">&#10148;</text>
   <text x="35" y="144" class="label">Total stars</text>
-  <text x="380" y="144" class="value" text-anchor="end">0</text>
+  <text x="380" y="144" class="value" text-anchor="end">1</text>
 
   <text x="20" y="166" class="label" fill="#8b949e">org: University of Information Technology, VNUHCM</text>
 </svg>
